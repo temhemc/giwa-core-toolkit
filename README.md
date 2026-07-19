@@ -27,6 +27,7 @@ The primary smart contract (`GIWAToken.sol`) leverages highly audited OpenZeppel
 * **Chain ID:** `91342`
 * **Currency Symbol:** `ETH`
 * **Block Explorer:** `https://explorer.sepolia.giwa.io`
+* **Deployed Contract Address:** `0xACC239f824249109B13Bd857151a7aAF8d7296E6`
 
 ---
 
